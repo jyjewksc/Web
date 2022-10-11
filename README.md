@@ -12,5 +12,5 @@
       -- nav.html、page_header.html、scripts.html、styles.html: base模板中的不同區域
       -- base.html: 每一個網頁的基礎架構
   - file.html: 使用者輸入url
-5. 各.py底下" if __name__ == "__main__"程式: 表示如果直接在該html中跑程式執行才會取用的參數, 供debug用, 否則會從app.py中傳入參數 
-
+5. 需在"static"資料夾中"finalcsv"資料夾裡面加入爰丞提供的final csv文件(finalcsv3s、finalcsv30s、finalcsv3s_dropna)
+6. 各.py底下" if __name__ == "__main__"程式: 表示如果直接在該html中跑程式執行才會取用的參數, 供debug用, 否則會從app.py中傳入參數
