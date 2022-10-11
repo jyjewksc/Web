@@ -1,4 +1,4 @@
-# Web
+# Web web-1- can upload_analyze -1011.zip
 1. app.py: 執行檔
 2. recognition資料夾: 包含所有.py程式、xgboost model(壓縮檔)
 3. static資料夾:
