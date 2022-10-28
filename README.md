@@ -3,7 +3,7 @@
 1. final csv: 最終版csv-after_select_ft_final30s
 2. recognition資料夾: 
   - 存放.py程式、DL model
-  - 如在資料夾下出現__pycache__資料夾可以直接刪除, 此為Python解釋器編譯的字節碼
+  - __pycache__資料夾: 此為Python解釋器編譯的字節碼, 在主程式 app.py中引用模組，並且執行後自動建立，下一次執行主程式時，Python編譯器會直接載入該模組，省略編譯，藉此來加速載入模組(Module)的速度。
 3. static資料夾: 
   - assets: 存放網頁使用的圖片、影片
   - css: css檔
